@@ -44,17 +44,13 @@ var newestUrls = [
     'https://' + getRandomSubdomain() + '.vildiho.cc'
 ];
 var otherUrls = [
-    'https://gitlab.com/91dizhi/go',
-    'https://dizhi8.pages.dev',
-    'https://dizhi22.github.io',
-    'https://bitbucket.org/91dizhi/go',
-    'https://www.ebay.com/usr/weia-31'
+    'https://dizhi96.github.io',
+
 ];
 var foreverUrls = [
-	'https://91porna.com',
-	'https://91porn.fun',
-	'https://91pornvideo.com',
-    'https://91pornforum.com'
+	'https://hlcgw.com',
+	'https://hlcgw.net',
+
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
